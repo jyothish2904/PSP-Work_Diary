@@ -1,6 +1,6 @@
 # PSP-Work_Diary
 
-## profile: Jyothish P Linesh 
+## Profile: Jyothish P Linesh 
 
 ## Team: XLN 4 
 
