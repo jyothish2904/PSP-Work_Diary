@@ -1,10 +1,10 @@
 # PSP-Work_Diary
 
-# profile: Jyothish P Linesh 
+## profile: Jyothish P Linesh 
 
-# Team: XLN 4 
+## Team: XLN 4 
 
-# members:
+### members:
 
 -*Jyothish Punnathundil Linesh*
 -Adithyan santhakumar
