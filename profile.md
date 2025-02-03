@@ -4,7 +4,7 @@
 
 ## Team: XLN 4 
 
-### Members:
+### Team Members:
 
 -*Jyothish Punnathundil Linesh*
 -Adithyan santhakumar
