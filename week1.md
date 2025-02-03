@@ -1,11 +1,11 @@
 # Profile: Jyothish p Linesh
 
-# WEEK 1:
+## WEEK 1:
 
-# Task to do :
+### Task to do :
 
 
-# Task completed :
+### Task completed :
 
-# Issues Needed to be addressed:
+### Issues Needed to be addressed:
 
