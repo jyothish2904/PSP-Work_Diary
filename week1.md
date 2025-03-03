@@ -13,7 +13,3 @@
 
 
 
-### Task completed :
-
-### Issues Needed to be addressed:
-
