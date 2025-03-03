@@ -25,5 +25,13 @@ Consider adding a dashboard for managers that visualizes their team's performanc
 ## Client Feedback Simulation:
 Create a realistic client feedback interface that mimics real-world scenarios, allowing users to interact with the system in a way that reflects actual case handling.
 Solicit ongoing feedback from users to refine the system further based on their experiences.
+
+- sprint week
+- star report
+
+# what to do 
+- work on feedback from clients
+-do star report 
+
  
 
