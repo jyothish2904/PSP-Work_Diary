@@ -4,4 +4,4 @@
 
 ## Task done:
 
-    _Did the testing of the source codes and documentation.
+    -Did the testing of the source codes and documentation.
